@@ -1,1 +1,2 @@
-# Text-Summarization-using-Transformer
+# Text Summarization Using Transformer
+In this paper, we present a Transformer-based approach to construct automatic summaries for Telugu news articles. The objective is to generate a headline that best represents the content of the article. We evaluate the performance of our approach using the BLEU score metric, which measures the similarity between the generated headline and the human-generated reference headline. Our approach achieves a BLEU score of 0.8795734, demonstrating its effectiveness in summarizing Telugu text.
